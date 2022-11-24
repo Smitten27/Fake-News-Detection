@@ -25,3 +25,9 @@ Our main goal is :
 1. Explore and analyze the Fake News dataset.
 
 2. Build a classifier that can distinguish Fake news with as much accuracy as possible.
+
+# Results
+As a result we get an accuracy score of  0.9865 of the training dataset which is something around 99 % and also we calculated the accuracy score of the test dataset which is around 0.9790 that means almost 98 % we get the correct result. As per the accuracy score we can say that farmost the code is working properly and generating accurate / correct results. 
+
+# Conclusions
+If you have a custom fake news dataset for fine-tuning, you simply have to pass a list of samples to the tokenizer as we did, you won't change / need any other code after that.
