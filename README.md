@@ -8,7 +8,7 @@ https://1drv.ms/p/s!AnC6txmRecf3pVHWhDiTAddTTJ_D
 # Dataset 
 test.csv : https://1drv.ms/u/s!AnC6txmRecf3pU-Y16lfwD2Arqlb?e=r2FeoB
 
-train.csv : https://1drv.ms/u/s!AnC6txmRecf3pVCQSiZrUCSN9kqd?e=s389RG
+train.csv : https://1drv.ms/u/s!AnC6txmRecf3pVCQSiZrUCSN9kqd?e=9f7ovX
 
 # Description
 Fake news is the intentional broadcasting of false or misleading claims as news, where the statements are purposely deceitful.
