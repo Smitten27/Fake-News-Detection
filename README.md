@@ -6,7 +6,9 @@ Fake News is a spread of disinformation and hoaxes through any news platform. Th
 https://1drv.ms/p/s!AnC6txmRecf3pVHWhDiTAddTTJ_D
 
 # Dataset 
-https://1drv.ms/u/s!AnC6txmRecf3pU-Y16lfwD2Arqlb?e=r2FeoB
+test.csv : https://1drv.ms/u/s!AnC6txmRecf3pU-Y16lfwD2Arqlb?e=r2FeoB
+
+train.csv : https://1drv.ms/u/s!AnC6txmRecf3pVCQSiZrUCSN9kqd?e=s389RG
 
 # Description
 Fake news is the intentional broadcasting of false or misleading claims as news, where the statements are purposely deceitful.
